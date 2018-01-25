@@ -39,7 +39,7 @@ do-what-it-says
 	* The album that the song is from
 
 	If no song is provided then the program will default to
-	"The Sign" by Ace of Base
+	"My Heart Will Go On" by Celine Dion
 * Step Three: node liri.js movie-this ```<movie name here>```.
 	
 	This will output the following information to your terminal/bash window:
@@ -53,7 +53,7 @@ do-what-it-says
 	* Rotten Tomatoes Rating.
 	* Rotten Tomatoes URL.
 	
-	If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+	If the user doesn't type a movie in, the program will output data for the movie 'Crazy, Stupid, Love.'
 
 * Step Four: node liri.js do-what-it-says
 
