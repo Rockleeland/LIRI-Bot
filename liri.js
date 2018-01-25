@@ -8,11 +8,11 @@ var fs = require('fs');
 
 var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
-var omdbKey = '4ec8937f';
+var omdbKey = keys.omdb.api_key;
+
 
 const command = process.argv[2];
 const secondCommand = process.argv[3];
-const word = '';
 
 switch (command) {
     case ('my-tweets'):
