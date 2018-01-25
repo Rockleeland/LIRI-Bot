@@ -59,7 +59,7 @@ do-what-it-says
 
 	This will output the command placed in random.txt file
 
-## Authors
-	* **Leeland Clenista** 
+## Author
+* **Leeland Clenista** 
 
 
