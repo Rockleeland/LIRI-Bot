@@ -22,14 +22,14 @@ switch (command) {
         if(secondCommand){
             spotifyThisSong(secondCommand);
          } else{
-            spotifyThisSong("The Sign");
+            spotifyThisSong("My Heart Will Go On");
          }
     break;
     case ('movie-this'):
         if(secondCommand){
             omdb(secondCommand);
         } else{
-            omdb("Mr. Nobody");
+            omdb("Crazy, Stupid, Love.");
         }
     break;
     case ('do-what-it-says'):
